@@ -1,0 +1,1 @@
+The goal of this project is to develop a robust system for detecting fraudulent insurance claims. Insurance fraud is a significant issue that costs the industry billions of dollars annually. By leveraging machine learning and data analytics, we aim to identify patterns and anomalies that indicate fraudulent activities.
